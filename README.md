@@ -6,8 +6,8 @@
 
 ## 自己能干点儿啥？
 - [ ] 看看Jenkins插件是怎么回事
-- [ ] 看看[Deploy to remote container](2)插件怎么回事
-- [ ] 看看[Build With Parameter](3)插件怎么回事
+- [ ] 看看[Deploy to remote container][2]插件怎么回事
+- [ ] 看看[Build With Parameter][3]插件怎么回事
 
 
 
